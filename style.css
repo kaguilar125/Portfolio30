@@ -1,0 +1,22 @@
+
+body {
+  background-color: #8d99ae;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh; /* Optional: Centers vertically within the viewport */
+    margin: 0; /* Optional: Removes default body margin */
+}
+
+img {
+    max-width: 100%; /* Ensures the image doesn't exceed its container width */
+    height: auto; /* Maintains the image's aspect ratio */
+}
+
+.bg-light {
+  background-color: rgba(var(--bs-navbar-active-color), 1) !important;
+}
+
+.container {
+    color: black;
+}
