@@ -100,3 +100,19 @@ div {
   text-align: center;
   
 }
+
+footer {
+  
+  text-align: center;
+  padding: 20px;
+  margin-top: 1in;
+}
+
+h4{
+  font-family: 'Telex', sans-serif;
+  font-size: 50px;
+}
+
+.pfooter{
+  font-family: 'Telex', sans-serif;
+}
